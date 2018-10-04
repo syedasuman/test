@@ -1,0 +1,28 @@
+body, body * {
+    font-family: 'Montserrat', sans-serif;
+    color: #494949;
+}
+
+body {
+    background-color: #40a63d1a;
+}
+#main{
+	display: inline-flex;
+}
+#nav-bar{
+	background-color: black;
+	color: gray;
+
+}
+h2{
+margin-left: 16px;
+}
+.card{
+	margin-left: 16px;
+	margin-bottom: 20px;
+}
+h3{
+	background-color: green;
+	color: white;
+}
+/* Write all your CSS here! */
